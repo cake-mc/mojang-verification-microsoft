@@ -1,15 +1,19 @@
 {
-  "name": "",
-  "title": "",
-  "version": "0.1.0",
-  "description": "",
-  "author": "",
-  "url": "",
+  "name": "mojang-verification-microsoft",
+  "title": "微软正版验证",
+  "version": "0.0.1",
+  "description": "为拥有微软账户正版的玩家进行验证与绑定",
+  "author": "Big_Cake",
+  "url": "https://github.com/Big-Cake-jpg/mojang-verification-microsoft",
   "namespace": "",
   "require": {
-    "blessing-skin-server": "^5.0.0"
+    "blessing-skin-server": "^5.0.0||^6.0.0"
   },
   "enchants": {
     "config": "Configuration"
-  }
+  },
+  "icon": {
+    "fa": "edge",
+    "bg": "fuchsia"
+  } 
 }
