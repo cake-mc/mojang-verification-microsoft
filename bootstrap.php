@@ -16,7 +16,7 @@ use App\Services\Hook
 
  */
 
-function get_url($url, $html) {
+function get_url() {
     $url='https://login.live.com/oauth20_authorize.srf?client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf';
 
     $html= file_get_contents($url);
@@ -56,12 +56,12 @@ function send_post($url, $post_data) {
 
 }
 
-   
-
+   $mic = get_url
+ 
 //使用方法
 
 $post_data = array(
-
+    
     
 
 );
