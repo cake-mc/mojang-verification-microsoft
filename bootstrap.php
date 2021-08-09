@@ -40,7 +40,7 @@ function send_post($url, $post_data) {
 
       'content' => $postdata,
 
-      'timeout' => 15 * 60 // 超时时间（单位:s）
+      'timeout' => 5 * 60 // 超时时间（单位:s）
 
     )
 
