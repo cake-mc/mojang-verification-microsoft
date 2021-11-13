@@ -1,8 +1,8 @@
 {
   "name": "mojang-verification-microsoft",
-  "title": "CakeMC\\Microsoft:general.title",
+  "title": "CakeMC\\Microsoft::general.title",
   "version": "0.0.1",
-  "description": "CakeMC\\Microsoft:general.description",
+  "description": "CakeMC\\Microsoft::general.description",
   "author": "Big_Cake,XieXiLin",
   "url": "https://github.com/cake-mc/mojang-verification-microsoft",
   "namespace": "CakeMC\\Microsoft",
