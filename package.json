@@ -1,19 +1,19 @@
 {
   "name": "mojang-verification-microsoft",
-  "title": "微软正版验证",
+  "title": "CakeMC\\Microsoft:general.title",
   "version": "0.0.1",
-  "description": "为拥有微软账户正版的玩家进行验证与绑定",
-  "author": "Big_Cake",
-  "url": "https://github.com/Big-Cake-jpg/mojang-verification-microsoft",
-  "namespace": "",
+  "description": "CakeMC\\Microsoft:general.description",
+  "author": "Big_Cake,XieXiLin",
+  "url": "https://github.com/cake-mc/mojang-verification-microsoft",
+  "namespace": "CakeMC\\Microsoft",
   "require": {
-    "blessing-skin-server": "^5.0.0||^6.0.0"
+    "blessing-skin-server": "^5.0.0 || ^6.0.0"
   },
   "enchants": {
-    "config": "Configuration"
-  },
-  "icon": {
-    "fa": "edge",
-    "bg": "fuchsia"
-  } 
+    "config": "Configuration",
+    "icon": {
+      "fa": "edge",
+      "bg": "fuchsia"
+    }
+  }
 }
